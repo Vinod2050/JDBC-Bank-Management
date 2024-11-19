@@ -82,6 +82,14 @@ public class Test {
 			System.out.println("Press 0 to show Available Options...");
 
 		}
+		
+		
+System.out.println("the end");
+
+System.out.println("----------------");
+
+System.out.println("-------Thank you ------------------");
+		
 
 	}
 }
